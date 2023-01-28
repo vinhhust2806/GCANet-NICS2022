@@ -5,6 +5,7 @@ Published in NICS 2022 (http://nafosted-nics.org/#/)
 ```
 python run.py 
 ```
+### Citation
 ```
 @INPROCEEDINGS{10013367,
   author={Nguyen, Quang-Vinh and Tran, Thi-Thao and Pham, Van-Truong},
