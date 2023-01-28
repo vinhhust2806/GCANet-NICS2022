@@ -1,11 +1,11 @@
 # Geometrical Constraint-based Advanced Network for Polyp Segmentation (GCA-NET) 
-Published in NICS 2022 (http://nafosted-nics.org/#/)
+Published in NICS 2022 : http://nafosted-nics.org/#/
 
-### How to run
+## How to run
 ```
 python run.py 
 ```
-### Citation
+## Citation
 ```
 @INPROCEEDINGS{10013367,
   author    = {Nguyen, Quang-Vinh and Tran, Thi-Thao and Pham, Van-Truong},
