@@ -1,4 +1,4 @@
-# # Geometrical Constraint-based Advanced Network for Polyp Segmentation (GCA-NET) 
+# Geometrical Constraint-based Advanced Network for Polyp Segmentation (GCA-NET) 
 
 Official Tensorflow implementation of [GCA-Net: Geometrical Constraint-based Advanced Network for Polyp Segmentation](https://proceedings.bmvc2023.org/806/) NICS 2022. 
  <br>
